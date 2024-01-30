@@ -1,0 +1,65 @@
+
+
+.mb-control{
+
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+
+    &__label{
+
+        @include font-body;
+        color:var(--black);
+    }
+
+    &__input{
+        width: 100%;
+        border:none;
+        outline: none;
+        background: var(--secondary);
+        height: 60px;
+        padding: 5px 20px;
+        border-radius: 5px;
+        border-bottom: solid 4px var(--tertiary);
+
+        @include font-body;
+        color:var(--black);
+
+        &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+            @include font-body;
+            color:var(--black);
+        }
+
+        &::-moz-placeholder { /* Firefox 19+ */
+            @include font-body;
+            color:var(--black);
+        }
+
+        &:-ms-input-placeholder { /* IE 10+ */
+            @include font-body;
+            color:var(--black);
+        }
+
+        &::placeholder{
+            @include font-body;
+            color:var(--black);
+        }
+
+        &:hover, 
+        &:focus, 
+        &:active,
+        &:focus-visible{
+
+            outline: none;
+        }
+
+        &:hover{
+            cursor: pointer;
+        }
+    }
+    
+    &__error{
+        @include font-body;
+        color:var(--black);
+    }
+}

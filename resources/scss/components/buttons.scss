@@ -1,0 +1,15 @@
+.mb-btn{
+
+    @include make-btn-default;
+  
+    &--primary{
+  
+      @include make-btn-primary; 
+    }
+
+    &--link{
+        color:var(--link);
+        text-decoration: underline;
+    }
+}
+  

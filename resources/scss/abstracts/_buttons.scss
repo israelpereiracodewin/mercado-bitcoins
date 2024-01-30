@@ -1,0 +1,57 @@
+
+@mixin make-btn() {
+    display: inline-flex;
+    justify-content: center;
+    grid-column-gap: 10px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    height: fit-content;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+@mixin make-btn-default(){
+
+    @include make-btn;
+    @include font-btn;
+    padding: 14px 24px;
+    align-items: center;
+
+    &:focus{
+      text-decoration: none;
+    }
+
+    border:none;
+    outline: none;
+
+    &:hover{
+        cursor: pointer;
+    }
+    
+    &:disabled, &[disabled]{
+        opacity: .5;
+    }
+  
+    @include mobile{
+        width: 100%;
+    }
+}
+
+@mixin make-btn-primary(){
+
+    padding: 15px 20px;
+    border-radius: 5px;
+    background-color: var(--purple);
+    border-bottom: solid 4px var(--purple-light);
+    color:var(--white); 
+    text-transform: uppercase;
+
+    &:focus, &:active{
+      box-shadow: none;
+    } 
+}
