@@ -20,6 +20,13 @@
     }
 }
 
+@mixin no-tablet{
+    
+    @media (min-width: #{calc($tabletWidth + 1px)}){
+        @content;
+    }
+}
+
 @mixin no-mobile{
     
     @media (min-width: #{calc($mobileWidth + 1px)}){

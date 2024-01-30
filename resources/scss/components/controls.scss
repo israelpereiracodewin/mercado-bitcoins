@@ -56,6 +56,17 @@
         &:hover{
             cursor: pointer;
         }
+
+        &--dark{
+            background: var(--secondary);
+            border-bottom: solid 4px var(--tertiary);
+        }
+
+        &--light{
+            background: var(--white);
+            border: solid 1px var(--primary);
+            border-bottom: solid 4px var(--primary);
+        }
     }
     
     &__error{

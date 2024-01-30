@@ -9,17 +9,17 @@
             <form wire:submit="save" class="mb-auth__form" novalidate>
             <div class="mb-control">
                     <label class="mb-control__label">O seu nome</label>
-                    <input type="text" wire:model="form.name" placeholder="Ex: John" class="mb-control__input"/>
+                    <input type="text" wire:model="form.name" placeholder="Ex: John" class="mb-control__input mb-control__input--dark" />
                     @error('form.name') <span class="mb-control__error">{{ $message }}</span> @enderror 
                 </div>
                 <div class="mb-control">
                     <label class="mb-control__label">Digite o seu email</label>
-                    <input type="email" wire:model="form.email" placeholder="Ex: john@mb.com" class="mb-control__input"/>
+                    <input type="email" wire:model="form.email" placeholder="Ex: john@mb.com" class="mb-control__input mb-control__input--dark" />
                     @error('form.email') <span class="mb-control__error">{{ $message }}</span> @enderror 
                 </div>
                 <div class="mb-control">
                     <label class="mb-control__label">A sua senha.</label>
-                    <input type="password" placeholder="E não conte para ninguém ;)" wire:model="form.password" class="mb-control__input"/>
+                    <input type="password" placeholder="E não conte para ninguém ;)" wire:model="form.password" class="mb-control__input mb-control__input--dark" />
                     @error('form.password') <span class="mb-control__error">{{ $message }}</span> @enderror 
                 </div>
                 <div class="mb-control">
