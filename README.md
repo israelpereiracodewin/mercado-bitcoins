@@ -3,6 +3,7 @@
   src="/public/imgs/logo.png"
   alt="Alt text"
   title="Optional title"
+  width="180"
   style="display: inline-block; margin: 0 auto; max-width: 180px">
 
 ## About Projeto
