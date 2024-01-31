@@ -26,6 +26,13 @@
                         title="Preciso registar-me">Preciso registar-me
                     </a>
                 </div>
+                <div wire:loading>
+                    <div class="mb-loading">
+                        <figure class="mb-loading__figure">
+                            <img src="{{ asset('imgs/logo.png') }}" class="mb-loading__img" alt="Mb logo"/>
+                        </figure>
+                    </div><!-- SVG loading spinner -->
+                </div>
             </form>
         </div>
     </div>

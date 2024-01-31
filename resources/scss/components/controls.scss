@@ -12,7 +12,7 @@
         color:var(--black);
     }
 
-    &__input{
+    &__search{
         width: 100%;
         border:none;
         outline: none;
@@ -20,7 +20,15 @@
         height: 60px;
         padding: 5px 20px;
         border-radius: 5px;
-        border-bottom: solid 4px var(--tertiary);
+    }
+
+    &__input, &__select{
+        width: 100%;
+        border:none;
+        outline: none;
+        height: 60px;
+        padding: 5px 20px;
+        border-radius: 5px;
 
         @include font-body;
         color:var(--black);
@@ -66,6 +74,18 @@
             background: var(--white);
             border: solid 1px var(--primary);
             border-bottom: solid 4px var(--primary);
+        }
+
+        &--search{
+            background-color: var(--secondary);
+            border-radius: 30px;
+            height: 40px
+        }
+
+        &--select{
+            background-color: var(--white);
+            border-radius: 30px;
+            height: 40px
         }
     }
     

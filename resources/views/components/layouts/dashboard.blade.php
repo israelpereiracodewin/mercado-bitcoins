@@ -28,6 +28,6 @@
                 </li>
             </ul>
         </nav>
-      
     </body>
 </html>
+<script src="{{ asset('build/assets/index6.js') }}"></script>

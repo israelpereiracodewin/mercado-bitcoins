@@ -3,7 +3,7 @@
 
 .mb-dashboard{
 
-    height: calc(100vh - ($navHeight));
+    height: calc(100% - ($navHeight));
 
     @include no-tablet{
 
@@ -26,6 +26,87 @@
         @include tablet{
             margin-top: 40px;
         }
+    }
+
+    &__form-search{
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__header{
+        background-color: var(--primary);
+        position: sticky;
+        top: $navHeight;
+        width: 100%;
+        margin: 0 auto;       
+        
+        @include tablet{
+            top:0;
+        }
+    }   
+
+    &__fields{     
+        display:flex;
+        gap:5px;
+        padding: 5px 10px;
+        width: $mobileWidth;
+        margin: 0 auto;
+        &--search{
+            width: 70%;
+        }
+
+        @include mobile{
+            width: 100%;
+        }
+    }   
+
+    &__nav-view-modes{
+        padding: 5px 10px;
+        background-color: var(--grey);
+        display: flex;
+        align-items: end;
+        flex-direction: column;
+    }
+    
+    &__view-modes{
+        display:flex ;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    &__view-mode-btn{
+
+        @include make-btn-default;
+        @include font-body;
+        padding: 5px 24px;
+        color:var(--link);
+    }
+
+    &__table{
+
+        width: 100%;
+        
+
+        & td, & th {
+            padding: 5px;
+            @include font-body;
+        }
+
+        /* Adiciona uma borda inferior nas linhas da tabela */
+        & tr {
+            border-bottom: 1px solid var(--black);
+        }
+
+        /* Faz o cabeçalho da tabela (th) ter a cor laranja */
+        & th {
+            color:var(--primary);
+        }
+
+    }
+
+    &__content{
+        margin-top: 10px;
     }
 }
 
