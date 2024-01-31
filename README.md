@@ -25,3 +25,47 @@ Foi desenvolvido de maneira responsivo como first-mobile. Utiliza a syntaxe [B.E
 - php artisan db:seed --class=QuotesTableSeeder
 - php artisan db:seed --class=CryptosTableSeeder
 - php artisan serve
+
+## Ecrãs do Sistema
+
+<img
+  src="/public/imgs/login.png"
+  alt="Alt text"
+  title="Optional title"
+  width="180"
+  style="display: inline-block; margin: 0 auto; max-width: 180px">
+
+<img
+  src="/public/imgs/register.png"
+  alt="Alt text"
+  title="Optional title"
+  width="180"
+  style="display: inline-block; margin: 0 auto; max-width: 180px">
+
+<img
+  src="/public/imgs/dashboard_mobile.png"
+  alt="Alt text"
+  title="Optional title"
+  width="180"
+  style="display: inline-block; margin: 0 auto; max-width: 180px">
+
+<img
+  src="/public/imgs/dashboard_desktop.png"
+  alt="Alt text"
+  title="Optional title"
+  width="180"
+  style="display: inline-block; margin: 0 auto; max-width: 180px">
+
+  <img
+  src="/public/imgs/profile.png"
+  alt="Alt text"
+  title="Optional title"
+  width="180"
+  style="display: inline-block; margin: 0 auto; max-width: 180px">
+
+<img
+  src="/public/imgs/graph.png"
+  alt="Alt text"
+  title="Optional title"
+  width="180"
+  style="display: inline-block; margin: 0 auto; max-width: 180px">
