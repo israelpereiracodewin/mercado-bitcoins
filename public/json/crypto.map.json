@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Binance",
+        "currency": "Bitcoin",
+        "baseSymbol": "BTC",
+        "quoteSymbol": "FDUSD",
+        "price": 43281.09133509,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Bitcoin",
+        "baseSymbol": "BTC",
+        "quoteSymbol": "USDT",
+        "price": 43257.11602712,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "First Digital USD",
+        "baseSymbol": "FDUSD",
+        "quoteSymbol": "USDT",
+        "price": 0.99962119,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Ethereum",
+        "baseSymbol": "ETH",
+        "quoteSymbol": "USDT",
+        "price": 2365.24107349,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "USDC",
+        "baseSymbol": "USDC",
+        "quoteSymbol": "USDT",
+        "price": 1.00002116,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Solana",
+        "baseSymbol": "SOL",
+        "quoteSymbol": "USDT",
+        "price": 103.69182514,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Ethereum",
+        "baseSymbol": "ETH",
+        "quoteSymbol": "FDUSD",
+        "price": 2366.82862365,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "XRP",
+        "baseSymbol": "XRP",
+        "quoteSymbol": "USDT",
+        "price": 0.51064989,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Solana",
+        "baseSymbol": "SOL",
+        "quoteSymbol": "FDUSD",
+        "price": 103.70576295,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Arbitrum",
+        "baseSymbol": "ARB",
+        "quoteSymbol": "USDT",
+        "price": 1.91174928,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Sei",
+        "baseSymbol": "SEI",
+        "quoteSymbol": "USDT",
+        "price": 0.70814417,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Sui",
+        "baseSymbol": "SUI",
+        "quoteSymbol": "USDT",
+        "price": 1.53147926,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Manta Network",
+        "baseSymbol": "MANTA",
+        "quoteSymbol": "USDT",
+        "price": 3.43658907,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Altlayer",
+        "baseSymbol": "ALT",
+        "quoteSymbol": "USDT",
+        "price": 0.4173471,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "BNB",
+        "baseSymbol": "BNB",
+        "quoteSymbol": "USDT",
+        "price": 309.53023972,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Ethereum",
+        "baseSymbol": "ETH",
+        "quoteSymbol": "BTC",
+        "price": 2368.04712791,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Avalanche",
+        "baseSymbol": "AVAX",
+        "quoteSymbol": "USDT",
+        "price": 35.63719043,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "ORDI",
+        "baseSymbol": "ORDI",
+        "quoteSymbol": "USDT",
+        "price": 61.99011282,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Chainlink",
+        "baseSymbol": "LINK",
+        "quoteSymbol": "USDT",
+        "price": 15.50677748,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Injective",
+        "baseSymbol": "INJ",
+        "quoteSymbol": "USDT",
+        "price": 36.5471187,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Tether USDt",
+        "baseSymbol": "USDT",
+        "quoteSymbol": "TRY",
+        "price": 1.00360666,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "THORChain",
+        "baseSymbol": "RUNE",
+        "quoteSymbol": "USDT",
+        "price": 4.81662027,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Optimism",
+        "baseSymbol": "OP",
+        "quoteSymbol": "USDT",
+        "price": 3.21774632,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Worldcoin",
+        "baseSymbol": "WLD",
+        "quoteSymbol": "USDT",
+        "price": 2.49380339,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Render",
+        "baseSymbol": "RNDR",
+        "quoteSymbol": "USDT",
+        "price": 4.66963186,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Bitcoin",
+        "baseSymbol": "BTC",
+        "quoteSymbol": "USDC",
+        "price": 43276.98738394,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Ethereum Classic",
+        "baseSymbol": "ETC",
+        "quoteSymbol": "USDT",
+        "price": 25.74251493,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Cardano",
+        "baseSymbol": "ADA",
+        "quoteSymbol": "USDT",
+        "price": 0.52045085,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "NEAR Protocol",
+        "baseSymbol": "NEAR",
+        "quoteSymbol": "USDT",
+        "price": 3.07875728,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Xai",
+        "baseSymbol": "XAI",
+        "quoteSymbol": "USDT",
+        "price": 0.86443185,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "XRP",
+        "baseSymbol": "XRP",
+        "quoteSymbol": "BTC",
+        "price": 0.51112047,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Sleepless AI",
+        "baseSymbol": "AI",
+        "quoteSymbol": "USDT",
+        "price": 1.3078069,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Polygon",
+        "baseSymbol": "MATIC",
+        "quoteSymbol": "USDT",
+        "price": 0.8080363,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Celestia",
+        "baseSymbol": "TIA",
+        "quoteSymbol": "USDT",
+        "price": 18.12217128,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Jito",
+        "baseSymbol": "JTO",
+        "quoteSymbol": "USDT",
+        "price": 2.21002577,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Dogecoin",
+        "baseSymbol": "DOGE",
+        "quoteSymbol": "USDT",
+        "price": 0.08047366,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Bounce Token",
+        "baseSymbol": "AUCTION",
+        "quoteSymbol": "USDT",
+        "price": 24.05810331,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Treasure",
+        "baseSymbol": "MAGIC",
+        "quoteSymbol": "USDT",
+        "price": 1.27699932,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Pendle",
+        "baseSymbol": "PENDLE",
+        "quoteSymbol": "USDT",
+        "price": 2.74848331,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Polkadot",
+        "baseSymbol": "DOT",
+        "quoteSymbol": "USDT",
+        "price": 6.91645472,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "SATS",
+        "baseSymbol": "1000SATS",
+        "quoteSymbol": "USDT",
+        "price": 0.00050996,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Conflux",
+        "baseSymbol": "CFX",
+        "quoteSymbol": "USDT",
+        "price": 0.22668213,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Blur",
+        "baseSymbol": "BLUR",
+        "quoteSymbol": "USDT",
+        "price": 0.64084948,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Nervos Network",
+        "baseSymbol": "CKB",
+        "quoteSymbol": "USDT",
+        "price": 0.00411768,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Maverick Protocol",
+        "baseSymbol": "MAV",
+        "quoteSymbol": "USDT",
+        "price": 0.69144549,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Tellor",
+        "baseSymbol": "TRB",
+        "quoteSymbol": "USDT",
+        "price": 118.50065764,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "API3",
+        "baseSymbol": "API3",
+        "quoteSymbol": "USDT",
+        "price": 3.00276327,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Ethereum Name Service",
+        "baseSymbol": "ENS",
+        "quoteSymbol": "USDT",
+        "price": 19.53190818,
+        "lastUpdated": "2024-01-30T23:11:59.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "Internet Computer",
+        "baseSymbol": "ICP",
+        "quoteSymbol": "USDT",
+        "price": 11.87006419,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    },
+    {
+        "name": "Binance",
+        "currency": "dYdX (ethDYDX)",
+        "baseSymbol": "DYDX",
+        "quoteSymbol": "USDT",
+        "price": 2.83677635,
+        "lastUpdated": "2024-01-30T23:10:58.000Z"
+    }
+]
